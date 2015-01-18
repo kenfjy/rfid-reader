@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_tag">Hover a NFC tag</string>
+    <string name="app_name">ATagReader</string>
+    <string name="caption_label">NFC Tag MemoryBlock</string>
+    <string name="read_label">Reload</string>
+    <string name="felicalite_label">Write Screen</string>
+    <string name="write_label">Write</string>
+    <string name="hint_label">Input a text within 16 bytes</string>
+    <string name="history_label">Use History</string>
+    <string name="inout_label">In-Out History</string>
+    <string name="use_ndef">Use NDEF for writing</string>
+
+    <!-- Messages for tag reader -->
+    <string name="device_type">This is %1$s device</string>
+    <string name="get_system_info_failed">%1$s Could not retrieve system information from device : </string>
+    <string name="get_memory_size_failed">%1$s Get memory size failed</string>
+    <string name="device_read_failed">Reading device failed</string>
+    <string name="null_service">tagService is null. Nothing to read."</string>
+    <string name="trancieve_failure">trancieve fail</string>
+
+    <string name="system_code_list">List of System Codes</string>
+    <string name="service_code_list">List of Service Codes</string>
+</resources>

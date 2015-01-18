@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_tag">NFCタグをかざしてください</string>
+    <string name="read_label">再読込</string>
+    <string name="felicalite_label">書きこみ画面</string>
+    <string name="write_label">書きこみ</string>
+    <string name="hint_label">16バイト以内で入力</string>
+    <string name="history_label">利用履歴</string>
+    <string name="inout_label">入退場履歴</string>
+    <string name="use_ndef">書込みにNDEFを使用する</string>
+
+    <!-- Messages for tag reader -->
+    <string name="device_type">%1$s デバイスです</string>
+    <string name="get_system_info_failed">%1$s デバイスからシステム情報を取得できませんでした : </string>
+    <string name="get_memory_size_failed">%1$s メモリサイズ情報を取得できませんでした</string>
+    <string name="device_read_failed">デバイスの読み込みに失敗しました</string>
+
+    <string name="system_code_list">システムコード一覧</string>
+    <string name="service_code_list">サービスコード一覧</string>
+</resources>
