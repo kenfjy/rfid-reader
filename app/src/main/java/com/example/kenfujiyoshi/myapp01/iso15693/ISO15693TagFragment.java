@@ -86,7 +86,7 @@ public class ISO15693TagFragment extends AbstractNfcTagFragment {
 //                sb.append("\n------------------------\n\n");
 // =======AFTER=======
                 sb.append(resp.toString());
-                sb.append("?q=");
+                sb.append("?uid=");
                 sb.append(tag.getSystemInformation().getUID().toId());
 // ==============
                 Log.v("TAG_ID", sb.toString());
